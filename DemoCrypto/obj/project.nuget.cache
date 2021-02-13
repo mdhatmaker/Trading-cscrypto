@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "h91g/gQlRI2QMZPy6BbDeGvYKZV73Xik8SUHDVReRxQE0/HMkWsUS+d+f1kPRkgzQZvGoG5z3nVt2k/417TOSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mhatm\\source\\repos\\DemoCrypto\\DemoCrypto\\DemoCrypto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhatm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mhatm\\.nuget\\packages\\ta-lib\\0.5.0.3\\ta-lib.0.5.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'TA-Lib 0.5.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "TA-Lib",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
